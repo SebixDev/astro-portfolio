@@ -2,6 +2,6 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von HTML, CSS, JavaScript
 
 Einträge:
 
-[01.02.2026]: CSS erstellt und in den index.html eingefügt.
+[01.02.2026]: index.html erstellt und Skelett/Grundgerüst hinzugefügt[!].
 
-[02.02.2026]: "script.js" verlinkt im index.html
+[02.02.2026]: "style.css im <head>" "script.js im <body>" verlinkt im index.html. 
