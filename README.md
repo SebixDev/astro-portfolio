@@ -5,3 +5,5 @@ Einträge:
 [01.02.2026]: index.html erstellt und Skelett/Grundgerüst hinzugefügt[!].
 
 [02.02.2026]: "style.css im <head>" "script.js im <body>" verlinkt im index.html. 
+
+[03.02.2026]: 
