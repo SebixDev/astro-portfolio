@@ -1,11 +1,24 @@
-Ein strukturiertes Lernprojekt zum praktischen Üben von HTML, CSS, JavaScript
+# 🚀 Projekt-zum-Lernen
 
-Einträge:
+Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und **JavaScript**.
 
-[01.02.2026]: index.html erstellt und Skelett/Grundgerüst hinzugefügt[!].
+---
 
-[02.02.2026]: "style.css im <head>" "script.js im <body>" verlinkt im index.html nach dem <footer>.
+## 📅 Logbuch (Fortschritt)
 
-[03.02.2026]: <header>, <main> und <footer> hinzugefügt im index.html.
+* **[01.02.2026]**: `index.html` erstellt und das Grundgerüst hinzugefügt.
+* **[02.02.2026]**: Verlinkung der Dateien:
+    * `style.css` im `<head>` eingebunden.
+    * `script.js` am Ende des `<body>` (nach dem `<footer>`) verlinkt.
+* **[03.02.2026]**: Struktur mit `<header>`, `<main>` und `<footer` im HTML ergänzt.
 
-[4.02.2026]: Aufgaben morgen: HTML erweitern und aufschreiben in Notitzbuch.
+---
+
+## 🎯 Nächste Schritte
+- [ ] HTML-Inhalt erweitern
+- [ ] Notizen im Notizbuch vervollständigen
+- [ ] Erste CSS-Styles ausprobieren
+
+---
+
+> **Hinweis:** Dieses Repository dient als Dokumentation meines Lernfortschritts.
