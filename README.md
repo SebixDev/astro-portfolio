@@ -6,6 +6,6 @@ Einträge:
 
 [02.02.2026]: "style.css im <head>" "script.js im <body>" verlinkt im index.html nach dem <footer>.
 
-[03.02.2026]: Header, Main und Footer hinzugefügt im index.html.
+[03.02.2026]: <header>, <main> und <footer> hinzugefügt im index.html.
 
-[4.02.2026]: Aufgaben morgen: erste CSS Schnipsel.
+[4.02.2026]: Aufgaben morgen: HTML erweitern und aufschreiben in Notitzbuch.
