@@ -21,4 +21,4 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 
 ---
 
-> **Hinweis:** Dieses Repository dient als Dokumentation meines Lernfortschritts.
+> **Hinweis:** Dieses Repository dient als Dokumentation meines Lernfortschritts und für das eigeneständige Lernen.
