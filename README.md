@@ -11,6 +11,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
     * `style.css` im `<head>` eingebunden.
     * `script.js` am Ende des `<body>` (nach dem `<footer>`) verlinkt.
 * **[03.02.2026]**: Struktur mit `<header>`, `<main>` und `<footer` im HTML ergänzt.
+* **[04.02.2026]**: HTML-Inhalt <header> angefangen. (<h1> </h1>)
 
 ---
 
