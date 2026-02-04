@@ -18,6 +18,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 - [ ] HTML-Inhalt erweitern
 - [ ] Notizen im Notizbuch vervollständigen
 - [ ] Erste CSS-Styles ausprobieren
+- [ ] Erste JavaScript Befehle einfügen
 
 ---
 
