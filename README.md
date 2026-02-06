@@ -12,8 +12,8 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
     * `script.js` am Ende des `<body>` (nach dem `<footer>`) verlinkt.
 * **[03.02.2026]**: Struktur mit `<header>`, `<main>` und `<footer` im HTML ergänzt.
 * **[04.02.2026]**: Pause, Notitzen gemacht und gelernt.
-* **[05.02.2026]**: HTML-Inhalt <header> angefangen. (<h1> </h1>)
-* **[06.02.2026]**: HTML-Inhalt <header> angefangen. (<h1> </h1>)
+* **[05.02.2026]**: HTML-Inhalt im <header> angefangen. (<h1> </h1>)
+* **[06.02.2026]**: HTML-Inhalt im <header> weiter gemacht. (<h2> </h2>)
 ---
 
 ## 🎯 Nächste Schritte
