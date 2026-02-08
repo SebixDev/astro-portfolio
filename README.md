@@ -15,7 +15,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[05.02.2026]**: HTML-Inhalt im <header> angefangen. (<h1> </h1>)
 * **[06.02.2026]**: HTML-Inhalt im <header> weiter gemacht. (<h2> </h2>)
 * **[07.02.2026]**: HTML-Inhalt im <main> angefangen. (<p> </p>)
-* **[08.02.2026]**: 
+* **[08.02.2026]**: HTML-Inhalt im <main> weiter gemacht. (<p> </p>)
 * **[09.02.2026]**: 
 * **[10.02.2026]**: 
 * **[11.02.2026]**: 
