@@ -31,7 +31,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 - [ ] Erste CSS-Styles ausprobieren
 - [ ] Erste JavaScript Befehle einfügen
 - [ ] Website optisch dynamisch machen (z.B. Sternefunkeln)
-- [ ] Dark-Mode einbauen
+- [ ] Dark-Mode einbauen mit Schalter
 
 ---
 
