@@ -30,6 +30,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 - [ ] Notizen im Notizbuch vervollständigen
 - [ ] Erste CSS-Styles ausprobieren
 - [ ] Erste JavaScript Befehle einfügen
+- [ ] Website optisch dynamisch machen (z.B. Sternefunkeln).
 
 ---
 
