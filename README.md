@@ -32,7 +32,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 - [ ] Erste JavaScript Befehle einfügen
 - [ ] Website optisch dynamisch machen (z.B. Sternefunkeln)
 - [ ] Dark-Mode einbauen mit Schalter
-
+- [ ] Eine Liste einbauen
 ---
 
 > **Hinweis:** Dieses Repository dient als Dokumentation meines Lernfortschritts und für das eigeneständige Lernen für die Zukunft.
