@@ -19,7 +19,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[09.02.2026]**: HTML-Inhalt im <footer> weiter gemacht.git.
 * **[10.02.2026]**: Pause-Tag aber einen Punkt in "Nächste Schritte" hinzugefügt. 
 * **[11.02.2026]**: HTML-Inhalt im <nain> weiter gemacht. Neue Idee hinzugefügt.
-* **[12.02.2026]**:
+* **[12.02.2026]**: Pause-Tag wegen langer Arbeitszeit. Anstrengend!
 * **[13.02.2026]**:
 * **[14.02.2026]**:
 
