@@ -35,4 +35,4 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 - [ ] Eine Liste einbauen
 ---
 
-> **Hinweis:** Dieses Repository dient als Dokumentation meines Lernfortschritts und für das eigeneständige Lernen für die Zukunft.
+> **Hinweis:** Dieses Repository dient als Dokumentation meines Lernfortschritts und für das eigeneständige Lernen für die Zukunft und dient als reines Übungstool.
