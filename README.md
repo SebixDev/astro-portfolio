@@ -13,17 +13,26 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[03.02.2026]**: Struktur mit `<header>`, `<main>` und `<footer` im HTML ergänzt.
 * **[04.02.2026]**: Pause, Notitzen gemacht und gelernt.
 * **[05.02.2026]**: HTML-Inhalt im <header> angefangen. (<h1> </h1>)
-* **[06.02.2026]**: HTML-Inhalt im <header> weiter gemacht. (<h2> </h2>)
+* **[06.02.2026]**: HTML-Inhalt im <header> weitergemacht. (<h2> </h2>)
 * **[07.02.2026]**: HTML-Inhalt im <main> angefangen. (<p> </p>)
-* **[08.02.2026]**: HTML-Inhalt im <main> weiter gemacht. (<p> </p>) und <footer> angefangen.
-* **[09.02.2026]**: HTML-Inhalt im <footer> weiter gemacht.git.
+* **[08.02.2026]**: HTML-Inhalt im <main> weitergemacht. (<p> </p>) und <footer> angefangen.
+* **[09.02.2026]**: HTML-Inhalt im <footer> weitergemacht.git.
 * **[10.02.2026]**: Pause-Tag aber einen Punkt in "Nächste Schritte" hinzugefügt. 
-* **[11.02.2026]**: HTML-Inhalt im <main> weiter gemacht. Neue Idee hinzugefügt.
+* **[11.02.2026]**: HTML-Inhalt im <main> weitergemacht. Neue Idee hinzugefügt.
 * **[12.02.2026]**: Pause-Tag wegen langer Arbeitszeit. Anstrengend!
-* **[13.02.2026]**: HTML-TAG im <main> weiter gemacht!
-* **[14.02.2026]**:
+* **[13.02.2026]**: HTML-TAG im <main> weitergemacht.
+* **[15.02.2026]**:
+* **[16.02.2026]**:
+* **[17.02.2026]**:
+* **[18.02.2026]**:
+* **[19.02.2026]**:
+* **[20.02.2026]**:
 
----
+
+
+
+
+---* 
 
 ## 🎯 Nächste Schritte
 - [ ] HTML-Inhalt erweitern
