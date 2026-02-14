@@ -21,12 +21,11 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[11.02.2026]**: HTML-Inhalt im <main> weitergemacht. Neue Idee hinzugefügt.
 * **[12.02.2026]**: Pause-Tag wegen langer Arbeitszeit. Anstrengend!
 * **[13.02.2026]**: HTML-TAG im <main> weitergemacht und CSS eine Datei ausprobiert.
-* **[15.02.2026]**: Pause-Tag. Samstag. 
+* **[14.02.2026]**: Pause-Tag. Samstag. 
+* **[15.02.2026]**:
 * **[16.02.2026]**:
 * **[17.02.2026]**:
 * **[18.02.2026]**:
-* **[19.02.2026]**:
-* **[20.02.2026]**:
 
 
 
