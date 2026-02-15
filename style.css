@@ -65,3 +65,8 @@ p {
   outline: 2px solid var(--accent-color);
   outline-offset: 2px;
 }
+
+.button:active {
+  transform: translateY(0);
+  opacity: 1;
+}
