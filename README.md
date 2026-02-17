@@ -24,15 +24,20 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[14.02.2026]**: Pause-Tag. Samstag. 
 * **[15.02.2026]**: CSS Datei eingefügt und im HTML <footer> button eingefügt und den button im CSS geändert(Aussehen).
 * **[16.02.2026]**: CSS Datei eigefügt. (Sternefunkeln).
-* **[17.02.2026]**: Pause da Gespräch.
+* **[17.02.2026]**: Pause da Gespräch. 
 * **[18.02.2026]**:
 * **[19.02.2026]**:
 * **[20.02.2026]**:
 * **[21.02.2026]**:
+* **[22.02.2026]**:
+* **[23.02.2026]**:
+* **[24.02.2026]**:
+* **[25.02.2026]**:
 
 
 
----* 
+
+---* *
 
 ## 🎯 Nächste Schritte
 - [ ] HTML-Inhalt erweitern
