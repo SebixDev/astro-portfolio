@@ -87,3 +87,11 @@ p {
   animation: twinkle 3s infinite ease-in-out;
 }
 
+@keyframes twinkle {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}

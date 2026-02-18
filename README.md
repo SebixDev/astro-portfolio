@@ -25,7 +25,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[15.02.2026]**: CSS Datei eingefügt und im HTML <footer> button eingefügt und den button im CSS geändert(Aussehen).
 * **[16.02.2026]**: CSS Datei eigefügt. (Sternefunkeln).
 * **[17.02.2026]**: CSS Schnipsel entfernt (Sternenschnipsel), da nicht funktioniert. Neuer Schnipsel eingefügt.
-* **[18.02.2026]**: Pausetag
+* **[18.02.2026]**: CSS Schnipsel hinzugefügt.
 * **[19.02.2026]**:
 * **[20.02.2026]**:
 * **[21.02.2026]**:
