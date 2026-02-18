@@ -78,7 +78,7 @@ p {
 .stars {
   width: 2px;
   height: 2px;
-  background: white;
+  background: rgb(156, 13, 13);
   border-radius: 50%;
   box-shadow: 
     10vw 20vh #fff, 25vw 50vh #fff, 35vw 80vh #fff, 
