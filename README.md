@@ -28,7 +28,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[18.02.2026]**: CSS Schnipsel hinzugefügt.
 * **[19.02.2026]**: Pause-Tag. Donnerstag! Langer Arbeitstag..
 * **[20.02.2026]**: HTML-Schnipel eingefügt im <main>.
-* **[21.02.2026]**:
+* **[21.02.2026]**: Aufgabe: Button richtig coden mit script.js.
 * **[22.02.2026]**:
 * **[23.02.2026]**:
 * **[24.02.2026]**:
