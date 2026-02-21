@@ -1,9 +1,9 @@
 :root {
   --bg-color: #050801;
   --card-bg: #0d1117;
-  --accent-color: #39ff14;
+  --accent-color: #8214ff;
   --text-primary: #f0fff0;
-  --text-secondary: #aaffaa;
+  --text-secondary: #b0aaff;
   --border-color: #1a2e1a;
 }
 
@@ -113,7 +113,7 @@ p {
 
 .button:focus {
   outline: none;
-  box-shadow: 0 0 0 3px rgba(57, 255, 20, 0.5);
+  box-shadow: 0 0 0 3px rgba(141, 20, 255, 0.5);
 }
 
 @keyframes twinkle {
