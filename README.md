@@ -31,8 +31,14 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[21.02.2026]**: Aufgabe: Button richtig coden mit script.js, und ein CSS Schnipsel hinzufügen.
 * **[22.02.2026]**: CSS-Datei geändert. Besodners die Farbe.
 * **[23.02.2026]**: CSS Datei geändert(Farbe).
-* **[24.02.2026]**:
-* **[25.02.2026]**:
+* **[24.02.2026]**: 
+* **[25.02.2026]**: 
+* **[26.02.2026]**: 
+* **[27.02.2026]**: 
+* **[28.02.2026]**: 
+* **[29.02.2026]**: 
+* **[30.02.2026]**: 
+
 
 
 
