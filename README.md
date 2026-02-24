@@ -30,8 +30,8 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[20.02.2026]**: HTML-Schnipel eingefügt im <main>.
 * **[21.02.2026]**: Aufgabe: Button richtig coden mit script.js, und ein CSS Schnipsel hinzufügen.
 * **[22.02.2026]**: CSS-Datei geändert. Besodners die Farbe.
-* **[23.02.2026]**: CSS Datei geändert(Farbe).
-* **[24.02.2026]**: 
+* **[23.02.2026]**: CSS-Datei geändert(Farbe).
+* **[24.02.2026]**: HTML-Schnipsel entfernt.
 * **[25.02.2026]**: 
 * **[26.02.2026]**: 
 * **[27.02.2026]**: 
