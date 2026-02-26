@@ -45,6 +45,10 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 
 
 
+
+
+
+
 ---* *
 
 ## 🎯 Nächste Schritte
@@ -55,6 +59,8 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 - [ ] Website optisch dynamisch machen (z.B. Sternefunkeln)
 - [ ] Dark-Mode einbauen mit Schalter
 - [ ] Eine Liste einbauen
+- [ ] Dynamisches Design
+
 ---
 
 > **Hinweis:** Dieses Repository dient als Dokumentation meines Lernfortschritts und für das eigeneständige Lernen für die Zukunft und dient als reines Übungstool.
