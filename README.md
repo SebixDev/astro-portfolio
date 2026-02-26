@@ -33,7 +33,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[23.02.2026]**: CSS-Datei geändert(Farbe).
 * **[24.02.2026]**: HTML-Schnipsel entfernt.
 * **[25.02.2026]**: CSS-Schnipsel (Sternenfunkeln) hinzugefügt. HTML-Code divs eingefügt im <main>. CSS-Verlinkungun im HTML eingefügt.
-* **[26.02.2026]**: 
+* **[26.02.2026]**: Pause-Tag. Donnerstag! Lange Arbeit!
 * **[27.02.2026]**: 
 * **[28.02.2026]**: 
 * **[29.02.2026]**: 
