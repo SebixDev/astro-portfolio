@@ -41,6 +41,14 @@ body {
   border-radius: 16px;
   padding: 2rem;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  transform: none !important;
+  transition: none !important;
+}
+
+.card:hover {
+  transform: none !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2) !important;
+  border-color: var(--border-color) !important;
 }
 
 h1 {
@@ -79,15 +87,6 @@ p {
   background-color: var(--accent-hover);
   transform: translateY(-2px);
   box-shadow: 0 6px 20px rgba(16, 185, 129, 0.3);
-}
-
-.button:active {
-  transform: translateY(0);
-}
-
-.button:focus {
-  outline: 2px solid var(--accent-color);
-  outline-offset: 4px;
 }
 
 @keyframes twinkle {
