@@ -8,7 +8,7 @@
   --border-color: #334155;
   --star-color-bright: rgba(255, 255, 255, 1);
   --star-color-dim: rgba(255, 255, 255, 0.7);
-  --star-color-accent: rgba(16, 185, 129, 0.8); /* Dein Grün für Akzentsterne */
+  --star-color-accent: rgba(16, 185, 129, 0.8);
 }
 
 body {
@@ -21,7 +21,6 @@ body {
   overflow-x: hidden;
 }
 
-/* Layer 1: Kleine, ferne Sterne */
 .stars {
   position: fixed;
   top: 0;
@@ -44,7 +43,6 @@ body {
   animation: twinkleSlow 7s infinite ease-in-out;
 }
 
-/* Layer 2: Mittlere, hellere Sterne */
 .stars::after {
   content: "";
   position: absolute;
@@ -63,7 +61,6 @@ body {
   animation: twinkleMedium 4s infinite ease-in-out;
 }
 
-/* Layer 3: Wenige, hell funkelnde Akzent-Sterne */
 .stars::before {
   content: "";
   position: absolute;
@@ -78,7 +75,7 @@ body {
     78vw 85vh var(--star-color-accent), 8vw 28vh var(--star-color-bright),
     38vw 95vh var(--star-color-bright), 68vw 58vh var(--star-color-accent);
   animation: twinkleFast 2.5s infinite ease-in-out;
-  filter: blur(0.5px); /* Leichter Glüh-Effekt */
+  filter: blur(0.5px);
 }
 
 .card {
@@ -135,7 +132,6 @@ p {
   box-shadow: 0 6px 20px rgba(16, 185, 129, 0.3);
 }
 
-/* Neue, weichere Animationen */
 @keyframes twinkleSlow {
   0%, 100% { opacity: 0.8; transform: scale(1); }
   50% { opacity: 0.3; transform: scale(0.9); }
