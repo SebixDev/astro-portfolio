@@ -36,7 +36,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[26.02.2026]**: Pause-Tag. Donnerstag! Lange Arbeit!
 * **[27.02.2026]**: CSS geändert/verbessert. (Sternefunkeln)
 * **[28.02.2026]**: Pause-Tag. Samstag. Trotzdem mehr Sterne im CSS hinzugefügt. (50/50 das es geht, morgen verbessern)
-* **[01.03.2026]**: 
+* **[01.03.2026]**: Sternefunkeln besser gemacht.
 * **[02.03.2026]**: 
 * **[03.03.2026]**: 
 * **[03.03.2026]**: 
