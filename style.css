@@ -1,6 +1,6 @@
 :root {
-  --bg-color: #020617;       /* Tiefes Midnight-Schwarzblau */
-  --card-bg: #0f172a;       /* Etwas helleres Dunkelblau für die Karte */
+  --bg-color: #020617;
+  --card-bg: #0f172a;
   --accent-color: #10b981;
   --accent-hover: #34d399;
   --text-primary: #f8fafc;
