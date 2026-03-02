@@ -1,11 +1,11 @@
 :root {
-  --bg-color: #0f172a;
-  --card-bg: #1e293b;
+  --bg-color: #020617;       /* Tiefes Midnight-Schwarzblau */
+  --card-bg: #0f172a;       /* Etwas helleres Dunkelblau für die Karte */
   --accent-color: #10b981;
   --accent-hover: #34d399;
   --text-primary: #f8fafc;
   --text-secondary: #94a3b8;
-  --border-color: #334155;
+  --border-color: #1e293b;
   --star-color-bright: rgba(255, 255, 255, 1);
   --star-color-dim: rgba(255, 255, 255, 0.7);
   --star-color-accent: rgba(16, 185, 129, 0.8);
@@ -83,14 +83,14 @@ body {
   border: 1px solid var(--border-color);
   border-radius: 16px;
   padding: 2rem;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
   transform: none !important;
   transition: none !important;
 }
 
 .card:hover {
   transform: none !important;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2) !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4) !important;
   border-color: var(--border-color) !important;
 }
 
@@ -99,6 +99,9 @@ h1 {
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
 }
 
 h2 {
@@ -115,7 +118,7 @@ p {
 .button {
   display: inline-block;
   background-color: var(--accent-color);
-  color: #064e3b;
+  color: #020617;
   padding: 0.8rem 2rem;
   border-radius: 10px;
   text-decoration: none;
