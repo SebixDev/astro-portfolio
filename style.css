@@ -78,7 +78,7 @@ body {
   filter: blur(0.5px);
 }
 
-.content {
+.card {
   background-color: var(--card-bg);
   border: 1px solid var(--border-color);
   border-radius: 16px;
