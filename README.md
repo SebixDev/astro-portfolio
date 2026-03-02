@@ -37,7 +37,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[27.02.2026]**: CSS geändert/verbessert. (Sternefunkeln)
 * **[28.02.2026]**: Pause-Tag. Samstag. Trotzdem mehr Sterne im CSS hinzugefügt.
 * **[01.03.2026]**: Sternefunkeln besser und moderner gemacht.
-* **[02.03.2026]**: CSS-Hintergrundfarbe geändert, was mehr auf den Sterneneffekt zutrifft.
+* **[02.03.2026]**: CSS-Hintergrundfarbe geändert, was mehr auf den Sterneneffekt passt.
 * **[03.03.2026]**: 
 * **[04.03.2026]**: 
 * **[05.03.2026]**: 
