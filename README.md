@@ -39,7 +39,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[01.03.2026]**: Sternefunkeln besser und moderner gemacht.
 * **[02.03.2026]**: CSS-Hintergrundfarbe geändert, was mehr auf den Sterneneffekt passt.
 * **[03.03.2026]**: HTML-Schnipsel hinzugefügt und .card funktion angeschaut.
-* **[04.03.2026]**: .card aussehen im css geändert.
+* **[04.03.2026]**: .card aussehen im css geändert. (dunklere Farbe)
 * **[05.03.2026]**: 
 * **[06.03.2026]**: 
 * **[07.03.2026]**: 
