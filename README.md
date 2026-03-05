@@ -40,7 +40,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[02.03.2026]**: CSS-Hintergrundfarbe geändert, was mehr auf den Sterneneffekt passt.
 * **[03.03.2026]**: HTML-Schnipsel hinzugefügt und .card funktion angeschaut.
 * **[04.03.2026]**: .card aussehen im css geändert. (dunklere Farbe)
-* **[05.03.2026]**: 
+* **[05.03.2026]**: Projekt auf Laptop gepullt. (muss Freitag wieder auf Pc grpullt werden)
 * **[06.03.2026]**: 
 * **[07.03.2026]**: 
 * **[08.03.2026]**: 
