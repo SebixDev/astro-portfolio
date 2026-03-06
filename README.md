@@ -41,7 +41,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[03.03.2026]**: HTML-Schnipsel hinzugefügt und .card funktion angeschaut.
 * **[04.03.2026]**: .card aussehen im css geändert. (dunklere Farbe)
 * **[05.03.2026]**: Projekt auf Laptop gepullt. (muss Freitag wieder auf Pc grpullt werden)
-* **[06.03.2026]**: Projekt auf Pc gezogen. Morgen weiter machen.
+* **[06.03.2026]**: Projekt auf Pc gezogen. Morgen weiter machen. Morgen/die Tage: Javascript anfangen für die Seite.
 * **[07.03.2026]**: 
 * **[08.03.2026]**: 
 * **[09.03.2026]**: 
