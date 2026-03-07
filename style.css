@@ -92,7 +92,36 @@ body {
 .card:hover {
   transform: none !important;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4) !important;
-  border-color: var(--border-color) !important;
+  border-color: #1a2a4a !important;
+}
+
+.skills-section {
+  margin-top: 2rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding-top: 1.5rem;
+}
+
+.skills-section h3 {
+  color: var(--accent-color);
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.skills-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.skills-list li {
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-primary);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 h1 {
