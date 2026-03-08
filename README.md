@@ -44,7 +44,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[06.03.2026]**: Projekt auf Pc gezogen. Morgen weiter machen.
 * **[07.03.2026]**: Fähigkeitsliste eingefügt im HTML sowie im CSS. Morgen: Javascriptideen (siehe Gemini, z.B. Sternschnuppe).
 * **[08.03.2026]**: Javascript angefangen. (Sternschnuppe)
-* **[09.03.2026]**: unbedingt den sternschnuppen css schnipsel eingügen im css und weiter probieren.
+* **[09.03.2026]**: unbedingt den sternschnuppen css schnipsel eingügen im css und weiter probieren. html anpassen auf sternschnuppeneffekt.
 * **[10.03.2026]**: 
 * **[11.03.2026]**: 
 * **[12.03.2026]**: 
