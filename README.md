@@ -43,7 +43,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[05.03.2026]**: Projekt auf Laptop gepullt. (muss Freitag wieder auf Pc grpullt werden)
 * **[06.03.2026]**: Projekt auf Pc gezogen. Morgen weiter machen.
 * **[07.03.2026]**: Fähigkeitsliste eingefügt im HTML sowie im CSS. Morgen: Javascriptideen (siehe Gemini, z.B. Sternenschnuppe).
-* **[08.03.2026]**: 
+* **[08.03.2026]**: Javascript angefangen.
 * **[09.03.2026]**: 
 * **[10.03.2026]**: 
 * **[11.03.2026]**: 
