@@ -2,9 +2,9 @@ function createShootingStar() {
     const star = document.createElement('div');
     star.className = 'shooting-star';
     
-    const startX = Math.random() * (window.innerWidth + 200); 
-    const startY = Math.random() * (window.innerHeight / 2);
-    const duration = Math.random() * 2 + 1.5;
+    const startX = Math.random() * (window.innerWidth + 400); 
+    const startY = Math.random() * (window.innerHeight / 2.5);
+    const duration = Math.random() * 1.5 + 0.8;
     
     star.style.left = `${startX}px`;
     star.style.top = `${startY}px`;
@@ -19,4 +19,4 @@ function createShootingStar() {
 
 setInterval(() => {
     createShootingStar();
-}, 2000);
+}, 800);
