@@ -52,6 +52,10 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[14.03.2026]**: 
 * **[15.03.2026]**: 
 * **[16.03.2026]**: 
+* **[17.03.2026]**:
+* **[18.03.2026]**:
+
+
 
 
 
