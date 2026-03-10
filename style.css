@@ -1,3 +1,4 @@
+CSS
 :root {
   --bg-color: #020617;
   --card-bg: #0f172a;
@@ -80,10 +81,10 @@ body {
 
 .shooting-star {
   position: fixed;
-  width: 3px;
-  height: 3px;
+  width: 5px;
+  height: 5px;
   background: white;
-  box-shadow: 0 0 10px white, 0 0 20px var(--accent-color);
+  box-shadow: 0 0 15px 2px white, 0 0 25px 4px var(--accent-color);
   border-radius: 50%;
   z-index: 0;
   pointer-events: none;
@@ -167,11 +168,11 @@ p {
 
 @keyframes shoot {
   0% {
-    transform: translate(0, 0) rotate(-45deg) scale(1);
+    transform: translate(0, 0) rotate(-45deg) scale(1.5);
     opacity: 1;
   }
   100% {
-    transform: translate(-1000px, 1000px) rotate(-45deg) scale(0.1);
+    transform: translate(-1200px, 1200px) rotate(-45deg) scale(0.1);
     opacity: 0;
   }
 }
