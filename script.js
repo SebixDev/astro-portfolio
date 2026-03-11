@@ -2,6 +2,10 @@ function createShootingStar() {
     const star = document.createElement('div');
     star.className = 'shooting-star';
     
+    const colors = ['#ffffff', '#10b981', '#34d399', '#60a5fa'];
+    const randomColor = colors[Math.floor(Math.random() * colors.length)];
+    star.style.setProperty('--star-color', randomColor);
+
     const startX = Math.random() * (window.innerWidth + 400); 
     const startY = Math.random() * (window.innerHeight / 2.5);
     const duration = Math.random() * 1.5 + 0.8;
