@@ -2,7 +2,7 @@ function createShootingStar() {
     const star = document.createElement('div');
     star.className = 'shooting-star';
     
-    const colors = ['#ffffff', '#10b981', '#34d399', '#60a5fa'];
+    const colors = ['#ffffff', '#10b981', '#34d399', '#60a5fa', '#ff4d4d', '#ff0000', '#fbbf24'];
     const randomColor = colors[Math.floor(Math.random() * colors.length)];
     star.style.setProperty('--star-color', randomColor);
 
