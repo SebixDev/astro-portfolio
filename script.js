@@ -1,4 +1,6 @@
 function createShootingStar() {
+    if (document.documentElement.getAttribute('data-theme') === 'light') return;
+
     const star = document.createElement('div');
     star.className = 'shooting-star';
     
@@ -21,6 +23,27 @@ function createShootingStar() {
     }, duration * 1000);
 }
 
-setInterval(() => {
-    createShootingStar();
-}, 800);
+setInterval(createShootingStar, 800);
+
+const toggleSwitch = document.querySelector('#checkbox');
+const currentTheme = localStorage.getItem('theme');
+
+if (currentTheme) {
+    document.documentElement.setAttribute('data-theme', currentTheme);
+    if (currentTheme === 'light') {
+        toggleSwitch.checked = true;
+        document.querySelector('.icon').textContent = '☀️';
+    }
+}
+
+toggleSwitch.addEventListener('change', (e) => {
+    if (e.target.checked) {
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+        document.querySelector('.icon').textContent = '☀️';
+    } else {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+        document.querySelector('.icon').textContent = '🌙';
+    }    
+});
