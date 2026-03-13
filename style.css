@@ -1,4 +1,4 @@
-   :root {
+:root {
   --bg-color: #020617;
   --card-bg: #0f172a;
   --accent-color: #10b981;
@@ -82,8 +82,9 @@ body {
   position: fixed;
   width: 5px;
   height: 5px;
-  background: white;
-  box-shadow: 0 0 15px 2px white, 0 0 25px 4px var(--accent-color);
+  /* Nutzt die Variable vom JS, Standard ist Weiß */
+  background: var(--star-color, white);
+  box-shadow: 0 0 15px 2px var(--star-color, white), 0 0 25px 4px var(--star-color, white);
   border-radius: 50%;
   z-index: 0;
   pointer-events: none;
