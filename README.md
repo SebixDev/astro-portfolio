@@ -48,7 +48,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[10.03.2026]**: Sternschnuppen größer gemacht und mehr hinzufügt. (In script.js und style.css) Morgen: Sternschnuppen Farben wechseln. (js und css ändern)
 * **[11.03.2026]**: Sternschnuppen Farben geändert. JS geändert. Morgen: CSS ändern dementsprechend. (für Farbe)
 * **[12.03.2026]**: CSS-Code geändert und angepasst für die Sterneschnuppenfarbe.
-* **[13.03.2026]**: Sternschnuppenfarben geändert.
+* **[13.03.2026]**: Sternschnuppenfarben geändert. Morgen: Dark Mode Schalter einfügen!
 * **[14.03.2026]**: 
 * **[15.03.2026]**: 
 * **[16.03.2026]**: 
