@@ -1,3 +1,28 @@
+const toggleSwitch = document.querySelector('#checkbox');
+const iconSpan = document.querySelector('.icon');
+
+const currentTheme = localStorage.getItem('theme') || 'dark';
+document.documentElement.setAttribute('data-theme', currentTheme);
+
+if (currentTheme === 'light') {
+    toggleSwitch.checked = true;
+    iconSpan.textContent = '☀️';
+} else {
+    iconSpan.textContent = '🌙';
+}
+
+toggleSwitch.addEventListener('change', (e) => {
+    if (e.target.checked) {
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+        iconSpan.textContent = '☀️';
+    } else {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+        iconSpan.textContent = '🌙';
+    }
+});
+
 function createShootingStar() {
     if (document.documentElement.getAttribute('data-theme') === 'light') return;
 
@@ -24,26 +49,3 @@ function createShootingStar() {
 }
 
 setInterval(createShootingStar, 800);
-
-const toggleSwitch = document.querySelector('#checkbox');
-const currentTheme = localStorage.getItem('theme');
-
-if (currentTheme) {
-    document.documentElement.setAttribute('data-theme', currentTheme);
-    if (currentTheme === 'light') {
-        toggleSwitch.checked = true;
-        document.querySelector('.icon').textContent = '☀️';
-    }
-}
-
-toggleSwitch.addEventListener('change', (e) => {
-    if (e.target.checked) {
-        document.documentElement.setAttribute('data-theme', 'light');
-        localStorage.setItem('theme', 'light');
-        document.querySelector('.icon').textContent = '☀️';
-    } else {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        localStorage.setItem('theme', 'dark');
-        document.querySelector('.icon').textContent = '🌙';
-    }    
-});
