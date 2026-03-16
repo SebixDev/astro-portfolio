@@ -50,8 +50,8 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[12.03.2026]**: CSS-Code geändert und angepasst für die Sterneschnuppenfarbe.
 * **[13.03.2026]**: Sternschnuppenfarben geändert. Morgen: Dark Mode Schalter einfügen!
 * **[14.03.2026]**: Dark-Mode-Button eingebaut im HTML, CSS und JS. 
-* **[15.03.2026]**: HTML Code ein bisschen verändert. Morgen: Design und HTML anpassen das es mehr eine coole Seite wird, statt eine inhaltslose Seite.
-* **[16.03.2026]**: 
+* **[15.03.2026]**: HTML Code ein bisschen verändert. Morgen: Design und HTML anpassen/reparieren (.card) das es mehr eine coole Seite wird, statt eine inhaltslose Seite.
+* **[16.03.2026]**: Design im HTML angepasst. 
 * **[17.03.2026]**:
 * **[18.03.2026]**:
 * **[19.03.2026]**:
