@@ -19,15 +19,20 @@
 
     <div class="stars"></div>
 
-    <header>
-        <h1>Mein Traum, Softwareentwickler zu werden.</h1>
-        <h2>Ich möchte Softwareentwickler werden, weil ich es liebe, Probleme zu lösen und kreative Lösungen zu entwickeln.</h2>
-        <h3>Ich lerne HTML, CSS und JavaScript, um meine Fähigkeiten als Softwareentwickler zu verbessern.</h3>
-        <h4>Mein Ziel ist es, eines Tages an spannenden Projekten zu arbeiten und innovative Softwarelösungen zu entwickeln.</h4>
-    </header>
-    
-    <main>
-         <div class="skills-section">
+    <main class="container">
+        <div class="card">
+            <header>
+                <h1>Mein Traum: Softwareentwickler</h1>
+                <p class="intro-text">
+                    Ich liebe es, Probleme zu lösen und kreative Lösungen zu entwickeln. 
+                    Aktuell lerne ich HTML, CSS und JavaScript, um meine Fähigkeiten zu verbessern.
+                </p>
+                <p class="goal-text">
+                    Mein Ziel ist es, an spannenden Projekten zu arbeiten und innovative Softwarelösungen zu entwickeln.
+                </p>
+            </header>
+            
+            <div class="skills-section">
                 <h3>Meine Fähigkeiten</h3>
                 <ul class="skills-list">
                     <li>HTML & Semantik</li>
@@ -36,13 +41,14 @@
                     <li>Responsive Design</li>
                 </ul>
             </div>
-    </main>
 
-    <footer>
-        <p>&copy; 2026 Mein Lernprojekt</p>
-        <h1>Vielen Dank fürs Lesen!</h1>
-        <button class="button" onclick="alert('Danke fürs Klicken!')">Klick mich!</button>
-    </footer>
+            <footer>
+                <p class="copyright">&copy; 2026 Mein Lernprojekt</p>
+                <h2>Vielen Dank fürs Lesen!</h2>
+                <button class="button" onclick="alert('Danke fürs Klicken!')">Klick mich!</button>
+            </footer>
+        </div>
+    </main>
 
     <script src="script.js"></script>
 
