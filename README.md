@@ -52,7 +52,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[14.03.2026]**: Dark-Mode-Button eingebaut im HTML, CSS und JS. 
 * **[15.03.2026]**: HTML Code ein bisschen verändert. Morgen: Design und HTML anpassen/reparieren (.card) das es mehr eine coole Seite wird, statt eine inhaltslose Seite.
 * **[16.03.2026]**: Design im HTML angepasst. 
-* **[17.03.2026]**:
+* **[17.03.2026]**: Dark Mode besser gemacht. (Farbe geändert)
 * **[18.03.2026]**:
 * **[19.03.2026]**:
 * **[20.03.2026]**:
