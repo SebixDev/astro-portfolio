@@ -90,6 +90,8 @@ h1 {
 }
 
 .button {
+  display: inline-block;
+  text-decoration: none;
   background-color: var(--accent-color);
   color: #ffffff;
   padding: 1rem 2.5rem;
@@ -110,6 +112,12 @@ h1 {
 
 .button:active {
   transform: scale(0.95);
+}
+
+.copyright {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
 }
 
 .theme-switch-wrapper {
