@@ -55,7 +55,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[17.03.2026]**: Dark Mode besser gemacht. (Farbe geändert) Morgen: Einfach Seite anpaassen, was sich besser anhört in den Sätzen.
 * **[18.03.2026]**: Seite angepasst, damit es besser aussieht und sich besser ließt. Morgen: Hover-Effekt einfügen.
 * **[19.03.2026]**: Hover-Effekt eingefügt und bearbeitet im HTML und CSS.
-* **[20.03.2026]**:
+* **[20.03.2026]**: Kontaktaufnehm-Button besser gemacht - Link führt direkt zu GitHub Profil.
 * **[21.03.2026]**:
 * **[22.03.2026]**:
 * **[23.03.2026]**:
