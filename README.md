@@ -59,6 +59,14 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[21.03.2026]**: Sternschnuppen eingefügt.
 * **[22.03.2026]**: Grauer White-Mode eingefügt sowie Sternschnuppen im White-Mode.
 * **[23.03.2026]**:
+* **[24.03.2026]**:
+* **[25.03.2026]**:
+* **[26.03.2026]**:
+* **[27.03.2026]**:
+* **[28.03.2026]**:
+* **[29.03.2026]**:
+* **[30.03.2026]**:
+* **[31.03.2026]**:
 
 ---
 
