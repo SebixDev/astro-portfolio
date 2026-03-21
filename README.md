@@ -56,26 +56,9 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[18.03.2026]**: Seite angepasst, damit es besser aussieht und sich besser ließt. Morgen: Hover-Effekt einfügen.
 * **[19.03.2026]**: Hover-Effekt eingefügt und bearbeitet im HTML und CSS.
 * **[20.03.2026]**: Kontaktaufnehm-Button besser gemacht - Link führt direkt zu GitHub Profil.
-* **[21.03.2026]**: Sternschnuppen eingefügt. Morgen: transition-delay (siehe Gemini)
-* **[22.03.2026]**:
+* **[21.03.2026]**: Sternschnuppen eingefügt.
+* **[22.03.2026]**: Grauer White-Mode eingefügt sowie Sternschnuppen im White-Mode.
 * **[23.03.2026]**:
-
-
-
-
-
-
----* *
-
-## 🎯 Nächste Schritte
-- [ ] HTML-Inhalt erweitern
-- [ ] Notizen im Notizbuch vervollständigen
-- [ ] Erste CSS-Styles ausprobieren
-- [ ] Erste JavaScript Befehle einfügen
-- [ ] Website optisch dynamisch machen (z.B. Sternefunkeln)
-- [ ] Dark-Mode einbauen mit Schalter
-- [ ] Eine Liste einbauen
-- [ ] Dynamisches Design
 
 ---
 
