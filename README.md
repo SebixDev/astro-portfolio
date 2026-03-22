@@ -58,7 +58,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[20.03.2026]**: Kontaktaufnehm-Button besser gemacht - Link führt direkt zu GitHub Profil.
 * **[21.03.2026]**: Sternschnuppen eingefügt.
 * **[22.03.2026]**: Grauer White-Mode eingefügt sowie Sternschnuppen im White-Mode. Morgen: Schweif bei Sternschnuppen hinzufügen im White und Dark-Mode. Noch einmal den Whitemode mit Sternschnuppen bearbeiten.
-* **[23.03.2026]**: Whitemode Sternschnuppen bearbeitet/verbessert.
+* **[23.03.2026]**: White-Mode Sternschnuppen bearbeitet/verbessert. Morgen: Sternenschweif hinzufügen.
 * **[24.03.2026]**:
 * **[25.03.2026]**:
 * **[26.03.2026]**:

@@ -1,3 +1,4 @@
+CSS
 :root {
   --bg-color: #020617;
   --card-bg: #0a1428;
@@ -9,7 +10,7 @@
   --star-color-bright: #ffffff;
   --star-color-dim: rgba(255, 255, 255, 0.5);
   --star-color-accent: rgba(16, 185, 129, 0.6);
-  --shooting-star-base: rgba(255, 255, 255, 0.8);
+  --shooting-star-base: rgba(255, 255, 255, 0.9);
 }
 
 [data-theme="light"] {
@@ -22,8 +23,8 @@
   --border-color: #cbd5e1;
   --star-color-bright: #94a3b8;
   --star-color-dim: rgba(0, 0, 0, 0.1);
-  --star-color-accent: rgba(5, 150, 105, 0.3);
-  --shooting-star-base: rgba(0, 0, 0, 0.4);
+  --star-color-accent: rgba(5, 150, 105, 0.4);
+  --shooting-star-base: rgba(15, 23, 42, 0.6);
 }
 
 body {
@@ -193,6 +194,7 @@ input:checked + .slider:before { transform: translateX(26px); }
   z-index: 0;
   pointer-events: none;
   animation: shoot forwards linear;
+  display: block !important;
 }
 
 .shooting-star::after {
@@ -200,7 +202,7 @@ input:checked + .slider:before { transform: translateX(26px); }
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  width: 120px;
+  width: 150px;
   height: 2px;
   background: linear-gradient(90deg, var(--star-color, #fff), transparent);
 }
