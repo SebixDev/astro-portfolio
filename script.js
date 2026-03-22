@@ -24,13 +24,17 @@ toggleSwitch.addEventListener('change', (e) => {
 });
 
 function createShootingStar() {
-    if (document.documentElement.getAttribute('data-theme') === 'light') return;
-
+    const isLightMode = document.documentElement.getAttribute('data-theme') === 'light';
+    
     const star = document.createElement('div');
     star.className = 'shooting-star';
     
-    const colors = ['#ffffff', '#10b981', '#34d399', '#60a5fa', '#ff4d4d', '#ff0000', '#fbbf24'];
+    const darkColors = ['#ffffff', '#10b981', '#34d399', '#60a5fa', '#ff4d4d', '#fbbf24'];
+    const lightColors = ['#059669', '#2563eb', '#7c3aed', '#db2777', '#dc2626'];
+    
+    const colors = isLightMode ? lightColors : darkColors;
     const randomColor = colors[Math.floor(Math.random() * colors.length)];
+    
     star.style.setProperty('--star-color', randomColor);
 
     const startX = Math.random() * (window.innerWidth + 400); 
