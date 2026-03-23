@@ -13,17 +13,17 @@
 }
 
 [data-theme="light"] {
-  --bg-color: #e2e8f0; 
-  --card-bg: #ffffff;
+  --bg-color: #cbd5e1; 
+  --card-bg: #f8fafc;
   --accent-color: #059669;
   --accent-hover: #10b981;
   --text-primary: #0f172a;
   --text-secondary: #334155;
-  --border-color: #cbd5e1;
-  --star-color-bright: #94a3b8;
+  --border-color: #94a3b8;
+  --star-color-bright: #475569;
   --star-color-dim: rgba(0, 0, 0, 0.1);
-  --star-color-accent: rgba(5, 150, 105, 0.3);
-  --shooting-star-base: rgba(15, 23, 42, 0.5);
+  --star-color-accent: rgba(5, 150, 105, 0.4);
+  --shooting-star-base: rgba(15, 23, 42, 0.7);
 }
 
 body {
@@ -36,7 +36,7 @@ body {
   align-items: center;
   justify-content: center;
   overflow-x: hidden;
-  transition: background-color 0.4s ease;
+  transition: background-color 0.3s ease;
 }
 
 .container {
@@ -52,7 +52,7 @@ body {
   padding: 3rem 2rem;
   text-align: center;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-  transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s ease, background-color 0.4s ease;
+  transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s ease, background-color 0.3s ease;
 }
 
 .card:hover {
@@ -87,14 +87,12 @@ h1 {
   border: 1px solid var(--accent-color);
   font-size: 0.85rem;
   transition: all 0.3s ease;
-  cursor: default;
 }
 
 .skill-tag:hover {
   background: var(--accent-color);
   color: #fff;
   transform: scale(1.1) rotate(2deg);
-  box-shadow: 0 5px 15px rgba(16, 185, 129, 0.4);
 }
 
 .button {
@@ -119,10 +117,6 @@ h1 {
   transform: scale(1.1);
   box-shadow: 0 0 30px 5px rgba(16, 185, 129, 0.6);
   transition-delay: 0s;
-}
-
-.button:active {
-  transform: scale(0.95);
 }
 
 .copyright {
