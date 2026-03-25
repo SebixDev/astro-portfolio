@@ -13,14 +13,14 @@
 }
 
 [data-theme="light"] {
-  --bg-color: #cbd5e1; 
+  --bg-color: #94a3b8; 
   --card-bg: #f8fafc;
   --accent-color: #059669;
   --accent-hover: #10b981;
   --text-primary: #0f172a;
   --text-secondary: #334155;
-  --border-color: #94a3b8;
-  --star-color-bright: #475569;
+  --border-color: #64748b;
+  --star-color-bright: #334155;
   --star-color-dim: rgba(0, 0, 0, 0.1);
   --star-color-accent: rgba(5, 150, 105, 0.4);
   --shooting-star-base: rgba(15, 23, 42, 0.7);
