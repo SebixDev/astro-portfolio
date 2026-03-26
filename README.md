@@ -61,12 +61,8 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[23.03.2026]**: White-Mode Sternschnuppen bearbeitet/verbessert. Morgen: Sternenschweif hinzufügen. Vielleicht den White-Mode noch bisschen dunkelgrauer machen. Aufjedenfall Seite reparieren, die die schwarz war, wieder schwarz machen.
 * **[24.03.2026]**: Dark-Mode fixen. Morgen: Sternschnuppenschweif hinzufügen.
 * **[25.03.2026]**: Dark-Mode seite gräulicher gemacht.
-* **[26.03.2026]**: Sternenschweif hinzufügen bei Sternschnuppen.
-* **[27.03.2026]**:
-* **[28.03.2026]**:
-* **[29.03.2026]**:
-* **[30.03.2026]**:
-* **[31.03.2026]**:
+* **[26.03.2026]**: Sternschweif hinzufügen bei Sternschnuppen. Morgen: Besser bearbeiten den Schweif und die Seite verschönern.
+* **[27.03.2026]**:Projekt abschließen!
 
 ---
 
