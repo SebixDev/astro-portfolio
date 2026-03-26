@@ -25,7 +25,6 @@ toggleSwitch.addEventListener('change', (e) => {
 
 function createShootingStar() {
     const isLightMode = document.documentElement.getAttribute('data-theme') === 'light';
-    
     const star = document.createElement('div');
     star.className = 'shooting-star';
     
