@@ -63,8 +63,8 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[25.03.2026]**: Dark-Mode seite gräulicher gemacht.
 * **[26.03.2026]**: Sternschweif hinzufügen bei Sternschnuppen. Morgen: Seite besser bearbeiten und die Seite verschönern.
 * **[27.03.2026]**: HTML Code (Seite) verbessert.
-* **[28.03.2026]**: Feinschliff und Abschluss.
-* **[29.03.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
+* **[28.03.2026]**: Feinschliff und geplanter Abschluss.
+* **[29.03.2026]**: Websiten-Design und Inhalt angepasst.
 * **[30.03.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
 * **[31.03.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
 * **[01.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
