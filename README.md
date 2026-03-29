@@ -1,4 +1,4 @@
-# 🚀 Projekt-zum-Lernen
+# 🚀 astro-portfolio
 
 Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und **JavaScript**.
 
@@ -75,6 +75,8 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 
 
 ---
+
+Aufgaben noch: Readme ändernd, Text ändern,
 
 
 > **Hinweis:** Dieses Repository dient als Dokumentation meines Lernfortschritts und für das eigeneständige Lernen für die Zukunft und dient als reines Übungstool.
