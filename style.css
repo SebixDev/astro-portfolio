@@ -198,7 +198,7 @@ input:checked + .slider:before { transform: translateX(26px); }
   transform: translateY(-50%);
   width: 250px;
   height: 3px;
-  background: linear-gradient(90deg, var(--star-color, #fff), transparent);
+  background: linear-gradient(90deg, var(--star-color), transparent);
 }
 
 @keyframes shoot {
