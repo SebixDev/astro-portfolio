@@ -76,7 +76,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 
 ---
 
-Aufgaben noch: Readme ändernd, Text ändern, Name vllt nochmal ändern (GITHUB Projekt), Sternschnuppen größer machen und auch gelbe Sternschnuppen einfügen.
+Aufgaben noch: Readme ändernd, Text ändern, Name vllt nochmal ändern (GITHUB Projekt), gelbe Sternschnuppen einfügen.
 
 
 > **Hinweis:** Dieses Repository dient als Dokumentation meines Lernfortschritts und für das eigeneständige Lernen für die Zukunft und dient als reines Übungstool.
