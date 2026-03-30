@@ -65,7 +65,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[27.03.2026]**: HTML Code (Seite) verbessert.
 * **[28.03.2026]**: Feinschliff und geplanter Abschluss.
 * **[29.03.2026]**: Websiten-Design und Inhalt angepasst.
-* **[30.03.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
+* **[30.03.2026]**: Sternschnuppen größer gemacht.
 * **[31.03.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
 * **[01.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
 * **[02.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
@@ -76,7 +76,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 
 ---
 
-Aufgaben noch: Readme ändernd, Text ändern,
+Aufgaben noch: Readme ändernd, Text ändern, Name vllt nochmal ändern (GITHUB Projekt), Sternschnuppen größer machen und auch gelbe Sternschnuppen einfügen.
 
 
 > **Hinweis:** Dieses Repository dient als Dokumentation meines Lernfortschritts und für das eigeneständige Lernen für die Zukunft und dient als reines Übungstool.
