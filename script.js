@@ -28,8 +28,8 @@ function createShootingStar() {
     const star = document.createElement('div');
     star.className = 'shooting-star';
     
-    const darkColors = ['#ffffff', '#10b981', '#34d399', '#60a5fa', '#ff4d4d', '#fbbf24'];
-    const lightColors = ['#059669', '#2563eb', '#7c3aed', '#db2777', '#dc2626'];
+    const darkColors = ['#ffffff', '#10b981', '#34d399', '#60a5fa', '#ff4d4d', '#fbbf24', '#f59e0b', '#fb923c'];
+    const lightColors = ['#059669', '#2563eb', '#7c3aed', '#db2777', '#dc2626', '#b45309'];
     
     const colors = isLightMode ? lightColors : darkColors;
     const randomColor = colors[Math.floor(Math.random() * colors.length)];
@@ -38,7 +38,7 @@ function createShootingStar() {
 
     const startX = Math.random() * (window.innerWidth + 400); 
     const startY = Math.random() * (window.innerHeight / 2.5);
-    const duration = Math.random() * 1.5 + 0.8;
+    const duration = Math.random() * 1.5 + 0.9;
     
     star.style.left = `${startX}px`;
     star.style.top = `${startY}px`;
@@ -51,4 +51,4 @@ function createShootingStar() {
     }, duration * 1000);
 }
 
-setInterval(createShootingStar, 800);
+setInterval(createShootingStar, 900);
