@@ -70,7 +70,13 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[01.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
 * **[02.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
 * **[03.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
-
+* **[03.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
+* **[03.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
+* **[03.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
+* **[03.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
+* **[03.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
+* **[03.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
+* **[03.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
 
 
 
