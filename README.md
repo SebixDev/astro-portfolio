@@ -67,7 +67,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[29.03.2026]**: Websiten-Design und Inhalt angepasst.
 * **[30.03.2026]**: Sternschnuppen größer gemacht.
 * **[31.03.2026]**: Sternschnuppen gelber gemacht.
-* **[01.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
+* **[01.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil. 
 * **[02.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
 * **[03.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
 * **[04.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
@@ -77,6 +77,8 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[08.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
 * **[09.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
 * **[10.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
+* **[11.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
+
 
 
 
