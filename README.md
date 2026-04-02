@@ -84,7 +84,5 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 
 ---
 
-Aufgaben noch: Readme ändernd, Text ändern, vielleicht das ein paar weniger fliegen oder langsamer.
-
 
 > **Hinweis:** Dieses Repository dient als Dokumentation meines Lernfortschritts und für das eigeneständige Lernen für die Zukunft und dient als reines Übungstool.
