@@ -69,7 +69,7 @@ Ein strukturiertes Lernprojekt zum praktischen Üben von **HTML**, **CSS** und *
 * **[31.03.2026]**: Sternschnuppen gelber gemacht.
 * **[01.04.2026]**: Projekt angepasst.
 * **[02.04.2026]**: Projekt angepasst.
-* **[03.04.2026]**: Projekt angepasst. MOrgen: Meilenstein einfügen HTML, übermorgen Readme ändern/anpassen.
+* **[03.04.2026]**: Projekt angepasst.
 * **[04.04.2026]**: Meilensteine eingefügt. Morgen: Readme ändern/anpassen.
 * **[05.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
 * **[06.04.2026]**: Projekt abschließen und das Logbuch ändern für öffentliches Git-Profil.
