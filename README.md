@@ -1,4 +1,4 @@
-# 🚀 Astro-Portfolio
+# 🚀 Stellar-Portfolio
 
 Strukturiertes Lernprojekt zur praktischen Anwendung von **HTML**, **CSS** und **JavaScript**.
 
